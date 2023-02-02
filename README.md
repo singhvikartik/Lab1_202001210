@@ -46,6 +46,7 @@ These NFRs are important for ensuring that the LIS is secure, easy to use, perfo
 Q.2. Identify scope, features and non-functional aspects of the following problem.
 
 A) Scope:
+    
     Scope defines what the project aims to achieve, and it serves as a guide for decision-making during the project      development process by having a clearly defined scope, the project team can focus their efforts on delivering the solution within the specified boundaries and will be always on track about the project and they will know what is neccessary and whay is not?.   
   The scope of the problem is to create a mobile application that addresses the everyday needs of people with disabling hearing loss. The solution will use artificial intelligence to recognize key sound events, provide immediate alerts and continual logging, and be optimized for Android devices with low-latency.
 
