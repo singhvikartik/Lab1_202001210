@@ -24,6 +24,7 @@ Why Building? As the size and capacity of the institute is increasing with the t
 
 7) Interface: The web application must be able to run only within the institute LAN, meaning that access to the system should be restricted to users on the local network.
 
+
 The FRs are important for ensuring the product is unique, specify the features and capabilities that the system must have to meet the needs of its users. FRs are the foundation of the system, as they describe what the system is intended to do and what it should be able to accomplish.
 
 
@@ -40,6 +41,7 @@ B) NFRs
 5) Maintainability: The system is easy to maintain and upgrade over time. This means that the code should be well-documented and organized, and the system should be designed in a modular way that makes it easy to add or remove features. The system schedules is maintenance every sunday midnight and also notifies the members.
 
 6) Interconnectivity: The system is able to integrate with other systems used by the library, such as the catalog system or the payment system. This means that the system should have the capability to exchange data with other systems and use data from other systems to support its functionality. LIS is partnered with RazorPay where users have multiple ways of payment such as UPI, Walle and Net Banking.
+
 
 These NFRs are important for ensuring that the LIS is secure, easy to use, performant, scalable, available, maintainable, and interoperable. They help ensure that the system will meet the needs of the library and its users over the long term.
 
